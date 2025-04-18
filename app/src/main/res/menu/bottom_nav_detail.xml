@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tentang"
+        android:title="Tentang"/>
+    <item
+        android:id="@+id/prestasi"
+        android:title="Prestasi"/>
+    <item
+        android:id="@+id/statistik"
+        android:title="Statistik"/>
+
+    <item
+        android:id="@+id/pemain"
+        android:title="Pemain"/>
+
+
+</menu>
